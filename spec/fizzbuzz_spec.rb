@@ -1,3 +1,5 @@
+require './solver'
+
 describe Solver do
   context 'When testing fizzbuzz method' do
     before :each do
