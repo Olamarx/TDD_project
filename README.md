@@ -2,71 +2,53 @@
 
 # Project Name
 
-> Description the project.
+> TDD_PROJECT is focused in create a class Solver with the methods factorial, reverse and fizzbuzz using TDD technic. This means that we are creating tests for each method first, and then writing the code that satisfises the tests.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Rspec
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## Live Demo (coming soon...)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
+- git clone git@github.com:Olamarx/TDD_project.git
+- cd TDD_project
+- in your terminal run: .code
+- in your terminal run: rspec
 
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Ruby
+- Rspec
 
 ## Authors
 
-👤 **Author1**
+👤 **Tom Milanesi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@TomMilanesi](https://github.com/KaskMIL)
+- Twitter: [@TomMilanesi](https://twitter.com/TomasMilanesi)
+- LinkedIn: [Tomas Milanesi](https://www.linkedin.com/in/tomas-milanesi-3427bb185/)
 
-👤 **Author2**
+👤 **Waqas Ahmad**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/waqaskanju)
+- Twitter: [@twitterhandle](https://twitter.com/waqaskanju)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/waqaskanju)
 
-## 🤝 Contributing
+👤 **Owoeye Olaoluwa (Olamarx)**
 
-Contributions, issues, and feature requests are welcome!
+- GitHub: [@githubhandle](https://github.com/Olamarx)
+- Twitter: [@twitterhandle](https://twitter.com/Owoeye0laoluwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
+- Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
