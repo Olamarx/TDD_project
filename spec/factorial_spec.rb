@@ -18,7 +18,7 @@ describe Solver do
       expect(result).to eq 3_628_800
     end
     it 'Should throw error if the argument is less than 0' do
-      expect { @solver.factorial(-2) }.to raise_error(RuntimeError, 'Error: the number must be equal or greater than 0')
+      expect { @solver.factorial(-2) }.to raise_error(RuntimeError, 'Error: The number must be equal or greater than 0')
     end
   end
 end
