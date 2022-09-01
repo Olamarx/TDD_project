@@ -3,8 +3,8 @@ class Solver
     puts word.chars.reverse.join
   end
 
-  def fizzbuzz(number)
-    num = number
+  def fizzbuzz(numb)
+    num = numb
     if (num % 3).zero? && (num % 5).zero?
       'fizzbuzz'
     elsif (num % 3).zero?
